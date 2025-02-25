@@ -34,9 +34,9 @@ class Book{
 
     public void display(){
         System.out.println("--------Book Details--------");
-        System.out.println("Title : "+title);
-        System.out.println("Author name : "+author);
-        System.out.println("Price :  "+price);
+        System.out.println("Title : "+ title);
+        System.out.println("Author name : "+ author);
+        System.out.println("Price :  "+ price);
     }
 }
 public class BookDetails {

@@ -42,7 +42,7 @@ class MobilePhone{
 }
 public class MobilePhoneDetails {
     public static void main(String[] args) {
-        MobilePhone mobilePhone = new MobilePhone("Apple", "iPhone 16", 68200.90);
+        MobilePhone mobilePhone = new MobilePhone("Apple", "iPhone 16", 67200.90);
         System.out.println();
         mobilePhone.diplayDetails();
     }

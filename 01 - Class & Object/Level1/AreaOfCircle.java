@@ -25,7 +25,7 @@ class Circle{
 public class AreaOfCircle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter the radius of the circle: ");
+        System.out.print("Enter the radius of the circle : ");
         int rad = sc.nextInt();
 
         Circle c = new Circle(rad);

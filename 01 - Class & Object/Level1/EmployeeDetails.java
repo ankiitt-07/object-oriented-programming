@@ -1,6 +1,7 @@
 import java.util.*;
 
 class Employee {
+    
     private String employeeName;
     private int employeeId;
     private double salary;

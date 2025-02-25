@@ -38,9 +38,9 @@ class Items{
 
     public void details(){
         System.out.println("--------Item Details--------");
-        System.out.println("Item code : "+itemCode);
-        System.out.println("Item Name : "+itemName);
-        System.out.println("Item Price : "+price);
+        System.out.println("Item code : "+ itemCode);
+        System.out.println("Item Name : "+ itemName);
+        System.out.println("Item Price : "+ price);
         System.out.println();
     }
     
