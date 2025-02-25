@@ -1,4 +1,5 @@
  class PalindromeChecker {
+    
     private final String text;
 
     public PalindromeChecker(String text) {

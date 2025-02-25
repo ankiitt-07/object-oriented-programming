@@ -1,4 +1,5 @@
  class MovieTicket {
+    
     private String movieName;
     private String seatNumber;
     private double price;
